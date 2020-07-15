@@ -8,5 +8,5 @@ I have also worked on Google Tag Manager, a central tag manager to appropriately
 
 I have also worked on Microsoft Azure to implement webhooks in Azure Automation.
 
-You can find out the implementation in the System Implementation part of project.docx file.
+You can find out the implementation in the System Implementation part of Project.docx file.
 
