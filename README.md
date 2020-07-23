@@ -6,7 +6,7 @@ I have worked on WooCommerce and Elementor for designing webpages and creating e
 
 I have also worked on Google Tag Manager, a central tag manager to appropriately use all the internet marketing tools.
 
-I have also worked on Microsoft Azure to implement webhooks in Azure Automation.
+I have used Microsoft Azure to implement webhooks in Azure Automation.
 
 You can find out the implementation in the System Implementation part of Project.docx file.
 
